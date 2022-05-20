@@ -40,6 +40,8 @@ Customer log in information:
 username: gymmaster
 Password: pass123
 
+Note if you want to enable google map in the website just enter Your API key in customerservices.php page 
+
 Languages used:
 - HTML
 - CSS
