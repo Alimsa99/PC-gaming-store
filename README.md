@@ -1,5 +1,5 @@
 # PC-gaming-store
-e-commerce website that sells pc parts suites gamers community. 
+E-commerce website that sells pc parts suites gamers community. 
 It was created by Computer information system students:
 - Ali Alawami
 - sadiq alnaimi
