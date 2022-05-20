@@ -1,5 +1,8 @@
 # PC-gaming-store
-E-commerce website that sells pc parts suites gamers community. 
+e-commerce website that sells pc parts that’s suites gamers community. 
+It provides the best parts in the market with good price. 
+The store ships to all cites in Saudi Arabia and provide different online payments.
+The store will provide useful pc components to provide cooling and better graphic and audio cards for the pc.
 
 It was created by Computer information system students:
 - Ali Alawami
