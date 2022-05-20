@@ -1,0 +1,79 @@
+ .navbar {
+    width: 100%;
+    background-color: grey;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #a7aa04;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #a7aa04;
+  }
+    
+    .navbar img{
+  top: 0%;
+  
+    position:sticky;
+    left: 45%;
+    width:140px;
+    }
+
+  #log{
+    float: right;
+
+  }
+
+
+
+  form.search input[type=text] {
+    float: left;
+    padding: 5px;
+    font-size: 17px;
+    border: 1px solid  rgba(85, 85, 85, 0.603);
+    width: 50%;
+    background: #f1f1f1;
+    position: absolute;
+    top: 15%;
+    right: 25%;
+  }
+  
+  /* Style the submit button */
+  form.search button {
+    float: left;
+    width: 10%;
+    padding: 5px;
+    background: grey;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    position: absolute;
+    top: 15%;
+    right: 25%;
+  }
+  
+  form.search button:hover {
+    background: #a7aa04;
+  }
+  
+  /* Clear floats */
+  form.search::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
