@@ -116,7 +116,7 @@ ob_start();
         }
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxSoD96jbfa84IOyGaTb3Kd_9tTQznZ5s&callback=myMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key= Enter your Google map API key here =.. =myMap"></script>
 
     <?php
     include('../includes/Footer.html');
